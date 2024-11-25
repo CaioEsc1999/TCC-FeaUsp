@@ -1,1 +1,8 @@
 # TCC-FeaUsp
+Este trabalho aborda a utilização da métrica NPS e a aplicação de técnicas de inteligência artificial para a análise da experiência do usuário em aplicativos bancários no Brasil, integrando modelos de classificação textual, dados coletados por meio de canais abertos de avaliação de clientes e o método de pesquisa Net Promoter Score (NPS). O estudo busca identificar fatores determinantes de satisfação e insatisfação, permitindo uma avaliação mais detalhada da experiência do usuário. Foram utilizados três modelos distintos para classificação de comentários: DistilBERT, TF-IDF e Dicionarização, cada um apresentando diferentes níveis de desempenho e desafios específicos. Esses métodos possibilitam transformar grandes volumes de feedbacks textuais não estruturados em informações estratégicas para priorização de melhorias.
+No contexto do setor financeiro brasileiro, que passa por uma acelerada transformação digital, o uso de inteligência artificial e NPS mostrou-se relevante como ferramenta de inovação e competitividade. A categorização precisa das principais áreas de interesse ou insatisfação, aliada ao ajuste do NPS com base em dados qualitativos, oferece uma visão estratégica para bancos, fintechs e outras instituições financeiras. Além disso, o trabalho evidencia as limitações dos métodos utilizados, destacando a necessidade de esforços futuros para ampliar a generalização e a precisão das classificações.
+
+Palavras-chave: experiência do usuário, inteligência artificial, Machine Learning,  Net Promoter Score, aplicativos bancários, classificação de texto.
+
+Autorizo a reprodução e divulgação total ou parcial deste trabalho, por qualquer meio con
+vencional ou eletrônico, para fins de estudo e pesquisa, desde que citada a fonte.
